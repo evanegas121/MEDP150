@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>5'x7'</title>
+</head>
+
+	<body style="background-color:#aec6cf;">
+
+	<header>
+	<h1>5'x7' @ 72 ppi</h1>
+	<a href="index.html"> HOME </a>
+	</header>
+		<br>
+		<section>
+			<a href="hw1.html"> 5'x7' @ 72 ppi</a>
+			<div>  <img src = "images/160.jpg" > </div>
+		</section>
+		
+
+	</body>
+</html>
